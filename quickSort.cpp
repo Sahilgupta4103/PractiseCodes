@@ -46,7 +46,7 @@ void printArray(int a[], int size)
     int i;
     for (i = 0; i < size; i++)
         cout << a[i] << " ";
-    cout << endl;
+    cout << "" <<endl;
 }
  
 
